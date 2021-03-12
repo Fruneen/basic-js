@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/AlreadyBored/basic-js#readme",
   "devDependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.3",
     "mocha": "^7.0.1",
     "sinon": "^8.1.1"
   }
